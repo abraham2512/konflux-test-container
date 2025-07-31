@@ -1,0 +1,11 @@
+contentOrigin:
+  repofiles:
+     - ./redhat.repo
+
+packages: []
+
+arches:
+  - x86_64
+
+context:
+    containerfile: ../Containerfile
